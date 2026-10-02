@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+reports/benchmark_results.csv
+reports/benchmark_report.md
